@@ -11,9 +11,7 @@ It calculates your exact age in years, months, and days based on your date of bi
 ---
 
 ## 📸 Screenshot
-(Add a screenshot of your project here <img width="1902" height="728" alt="image" src="https://github.com/user-attachments/assets/54c5221a-9eb4-4c36-aaee-4f28748d5f4b" />
-)
-
+ <img width="1902" height="728" alt="image" src="https://github.com/user-attachments/assets/54c5221a-9eb4-4c36-aaee-4f28748d5f4b" />
 ---
 
 ## 🛠️ Technologies Used
